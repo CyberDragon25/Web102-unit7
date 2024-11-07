@@ -1,5 +1,5 @@
 import CreateCrewmateForm from '../components/CreateCrewmateForm';
-import CrewmateList from '../components/CrewmateList';
+import CrewmateList from './CrewmateList';
 
 function Home() {
   return (
